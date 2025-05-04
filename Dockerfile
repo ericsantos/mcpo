@@ -61,7 +61,7 @@ RUN uv pip install . && rm -rf ~/.cache
 # Install playwright and browser dependencies (if you're using Python Playwright)
 RUN uv pip install playwright \
     && playwright install-deps \
-    && playwright install chrome
+    && playwright install --force chrome
 
 # Verify mcpo installed correctly
 RUN which mcpo
