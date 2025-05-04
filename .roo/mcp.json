@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "zapier": {
-      "url": "https://mcp.zapier.com/api/mcp/s/MGZmZDUwOTAtNzQwNy00Mzg4LTgxYTktNmM1Y2UxZjk4ODgyOmQwN2NkZmVhLTQ5ZGItNDgxMS04NmYxLTczNDExMDUwMDFjNw==/sse",
-      "alwaysAllow": []
-    }
-  }
-}
